@@ -1,0 +1,9 @@
+@model KT14.Models.Teacher
+@{ ViewData["Title"] = "Новый преподаватель"; }
+
+<h1 class="h3 mb-3">Новый преподаватель</h1>
+<form asp-action="Create" method="post">
+    <partial name="_Fields" />
+    <button class="btn btn-primary">Добавить</button>
+    <a asp-action="Index" class="btn btn-link">Отмена</a>
+</form>

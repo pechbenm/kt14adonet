@@ -1,0 +1,34 @@
+@model IEnumerable<KT14.Models.Teacher>
+@{ ViewData["Title"] = "Преподаватели"; }
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="h3 mb-0">Преподаватели</h1>
+    <a asp-action="Create" class="btn btn-primary">Добавить преподавателя</a>
+</div>
+
+<table class="table table-hover align-middle">
+    <thead><tr><th>ФИО</th><th>Email</th><th>Кафедра</th><th>Курсов</th><th></th></tr></thead>
+    <tbody>
+    @foreach (var t in Model)
+    {
+        <tr>
+            <td>@t.FullName</td>
+            <td>@t.Email</td>
+            <td>@t.Department</td>
+            <td>@t.Courses.Count</td>
+            <td class="text-end">
+                <a asp-action="Details" asp-route-id="@t.Id" class="btn btn-sm btn-outline-secondary">Открыть</a>
+                <a asp-action="Edit" asp-route-id="@t.Id" class="btn btn-sm btn-outline-primary">Изменить</a>
+                <form asp-action="Delete" asp-route-id="@t.Id" method="post" class="d-inline"
+                      onsubmit="return confirm('Удалить преподавателя вместе со всеми его курсами?');">
+                    <button class="btn btn-sm btn-outline-danger">Удалить</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+@if (!Model.Any())
+{
+    <p class="text-muted">Преподавателей пока нет. Добавьте первого — без него нельзя создать курс.</p>
+}

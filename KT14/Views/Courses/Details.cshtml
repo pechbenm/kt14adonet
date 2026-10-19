@@ -1,0 +1,62 @@
+@model KT14.Models.Course
+@{
+    ViewData["Title"] = Model.Title;
+    var available = (SelectList)ViewBag.AvailableStudents;
+}
+
+<h1 class="h3">@Model.Title</h1>
+@if (!string.IsNullOrWhiteSpace(Model.Description))
+{
+    <p class="text-muted">@Model.Description</p>
+}
+<p>
+    Преподаватель:
+    <a asp-controller="Teachers" asp-action="Details" asp-route-id="@Model.TeacherId">@Model.Teacher?.FullName</a>
+    · Кредиты: @Model.Credits
+</p>
+
+<h2 class="h5 mt-4">Студенты (@Model.Students.Count)</h2>
+@if (Model.Students.Any())
+{
+    <table class="table align-middle">
+        <thead><tr><th>ФИО</th><th>Email</th><th></th></tr></thead>
+        <tbody>
+        @foreach (var s in Model.Students.OrderBy(s => s.LastName))
+        {
+            <tr>
+                <td><a asp-controller="Students" asp-action="Details" asp-route-id="@s.Id">@s.FullName</a></td>
+                <td>@s.Email</td>
+                <td class="text-end">
+                    <form asp-action="Unenroll" asp-route-id="@Model.Id" method="post" class="d-inline">
+                        <input type="hidden" name="studentId" value="@s.Id" />
+                        <button class="btn btn-sm btn-outline-danger">Отчислить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-muted">На курс пока никто не записан.</p>
+}
+
+@if (available.Any())
+{
+    <form asp-action="Enroll" asp-route-id="@Model.Id" method="post" class="row g-2 align-items-center mb-4">
+        <div class="col-auto">
+            <select name="studentId" asp-items="available" class="form-select"></select>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-success">Записать на курс</button>
+        </div>
+    </form>
+}
+else
+{
+    <p class="text-muted">Все студенты уже записаны на этот курс.</p>
+}
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Изменить курс</a>
+<a asp-action="Index" class="btn btn-link">К списку</a>

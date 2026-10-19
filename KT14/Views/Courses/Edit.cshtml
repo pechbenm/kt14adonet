@@ -1,0 +1,10 @@
+@model KT14.Models.Course
+@{ ViewData["Title"] = "Изменение курса"; }
+
+<h1 class="h3 mb-3">Изменение курса</h1>
+<form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+    <input type="hidden" asp-for="Id" />
+    <partial name="_Fields" />
+    <button class="btn btn-primary">Сохранить</button>
+    <a asp-action="Index" class="btn btn-link">Отмена</a>
+</form>

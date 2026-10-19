@@ -1,0 +1,6 @@
+@KT14_HostAddress = http://localhost:5293
+
+GET {{KT14_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

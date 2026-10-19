@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\KT14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0\\AppData\\Local\\Temp\\Rar$DIa44576.19122\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\courses\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\courses\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\teachers\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\teachers\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\students\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\students\\_fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|c:\\users\\0\\source\\repos\\kt14\\kt14\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B43F9F-BECB-451A-BCC7-D24E2038D09B}|KT14\\KT14.csproj|solutionrelative:kt14\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:39.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "KT14\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Student.cs",
+              "RelativeToolTip": "KT14\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:09:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Program.cs",
+              "RelativeDocumentMoniker": "KT14\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Program.cs",
+              "RelativeToolTip": "KT14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:10:12.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\appsettings.json",
+              "RelativeDocumentMoniker": "KT14\\appsettings.json",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\appsettings.json",
+              "RelativeToolTip": "KT14\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T16:35:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "KT14\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "KT14\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:01:25.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "KT14\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Data\\SeedData.cs",
+              "RelativeToolTip": "KT14\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:09:02.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "KT14\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "KT14\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:08:08.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "KT14\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "KT14\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:08:44.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "KT14\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Teacher.cs",
+              "RelativeToolTip": "KT14\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:09:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "KT14\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Models\\Course.cs",
+              "RelativeToolTip": "KT14\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:09:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Fields.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\_Fields.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Courses\\_Fields.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\_Fields.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Courses\\_Fields.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:26.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Teachers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Teachers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:14:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:14:54.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:15:00.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:15:31.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\AppData\\Local\\Temp\\Rar$DIa44576.19122\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa44576.19122\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\AppData\\Local\\Temp\\Rar$DIa44576.19122\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa44576.19122\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:49:16.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KT14\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:23:54.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Teachers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:14:45.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Fields.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\_Fields.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Teachers\\_Fields.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Teachers\\_Fields.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Teachers\\_Fields.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:59.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:14:21.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:14:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:57.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:10:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Fields.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\_Fields.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Students\\_Fields.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Students\\_Fields.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Students\\_Fields.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KT14\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KT14\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:09:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "KT14\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT14\\KT14\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "KT14\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:08:34.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

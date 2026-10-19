@@ -1,0 +1,26 @@
+@model KT14.Models.Course
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="row g-3 mb-3">
+    <div class="col-md-12">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Credits" class="form-label"></label>
+        <input asp-for="Credits" type="number" class="form-control" />
+        <span asp-validation-for="Credits" class="text-danger"></span>
+    </div>
+    <div class="col-md-8">
+        <label asp-for="TeacherId" class="form-label"></label>
+        <select asp-for="TeacherId" asp-items="(SelectList)ViewBag.Teachers" class="form-select">
+            <option value="">— выберите преподавателя —</option>
+        </select>
+        <span asp-validation-for="TeacherId" class="text-danger"></span>
+    </div>
+    <div class="col-md-12">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" rows="3" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+</div>
